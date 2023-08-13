@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://img.asmedia.epimg.net/resizer/W4Zn7Im1XoDTqWKwYI-5lAwavro=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IJ5YVZSPXBDKRGSPTPXV3JA3S4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 899.99,
+    "imgUrl": "https://falabella.scene7.com/is/image/FalabellaPE/882771850_1?wid=1500&hei=1500&qlt=70"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 79.95,
+    "imgUrl": "https://skullcandy.com.pe/wp-content/uploads/2021/02/2000x2000_amazon_black_1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "price": 599.0,
+    "imgUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2065300885281/2065300885281_2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Mug",
+    "price": 7.5,
+    "imgUrl": "https://imaginaperu.com/wp-content/uploads/2018/06/mug-coffee-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sneakers",
+    "price": 129.95,
+    "imgUrl": "https://images.theconversation.com/files/303723/original/file-20191126-180279-gvmxgl.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6989%2C4892&q=45&auto=format&w=926&fit=clip"
+  },
+  {
+    "id": 7,
+    "name": "Watch",
+    "price": 199.0,
+    "imgUrl": "https://promart.vteximg.com.br/arquivos/ids/892339-1000-1000/image-4d38b8d684334dd8b132d566c8fa7b7c.jpg?v=637546303935900000"
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "price": 49.99,
+    "imgUrl": "https://m.media-amazon.com/images/I/91YandYecdL.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gaming Console",
+    "price": 299.99,
+    "imgUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/01/xbox-2048px-seriesS.jpg?auto=webp&quality=60&width=570"
+  },
+  {
+    "id": 10,
+    "name": "Desk Lamp",
+    "price": 24.95,
+    "imgUrl": "https://nanotechnology.com.pe/wp-content/uploads/2015/10/s-matte-black-desk-lamp.jpg"
+  }
+]
